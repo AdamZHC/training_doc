@@ -1,7 +1,7 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-../pom.xml
+/compiler.xml
 ../.idea/
 # Datasource local storage ignored files
 /dataSources/
